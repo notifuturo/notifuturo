@@ -2,14 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.notifuturo.com/tags/chatgpt/</loc>
+    <lastmod>2025-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.notifuturo.com/tags/emociones/</loc>
+    <lastmod>2025-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.notifuturo.com/tags/inteligencia-artificial/</loc>
+    <lastmod>2025-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.notifuturo.com/posts/ia-supera-humanos-emociones/</loc>
+    <lastmod>2025-05-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.notifuturo.com/</loc>
     <lastmod>2025-05-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.notifuturo.com/posts/</loc>
     <lastmod>2025-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.notifuturo.com/categories/</loc>
-  </url><url>
     <loc>https://www.notifuturo.com/tags/</loc>
+    <lastmod>2025-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.notifuturo.com/categories/</loc>
   </url>
 </urlset>
