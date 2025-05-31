@@ -1,7 +1,7 @@
 ---
 title: "La IA supera a los humanos en pruebas de inteligencia emocional"
 date: 2025-05-30
-draft: true
+draft: false
 tags: ["inteligencia artificial", "emociones", "ChatGPT"]
 ---
 
